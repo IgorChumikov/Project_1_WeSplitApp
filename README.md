@@ -1,1 +1,1 @@
-# Project_1_WeSplitApp
+# Project_1_WeSplitApp SwiftUI
